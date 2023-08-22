@@ -1,6 +1,7 @@
 * {
     font-family: Helvetica, Arial, sans-serif;
-    background-color: rgb(168, 243, 255);
+    background-color: rgb(14, 35, 97);
+    color: #fff;
   }
   
   body {
@@ -8,10 +9,10 @@
   }
   
   input {
-    background-color: white;
+    background-color: #fff;
     border-radius: 5px;
-    border: 1px solid rgb(97, 32, 158);
-    color: black;
+    border: 1px solid #fff;
+    color: rgb(14, 35, 97);
     font-size: 1.2rem;
     outline: none;
     padding: 10px 15px;
@@ -37,7 +38,7 @@
   .card {
     align-content: center;
     align-items: center;
-    background-color: white;
+    background-color: rgb(14, 35, 97);
     border-radius: 10px;
     box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.03);
     display: flex;
@@ -50,7 +51,7 @@
   }
   
   .card p {
-    background-color: white;
+    background-color: rgb(14, 35, 97);
     flex: 1;
     font-size: 1.5rem;
     margin-top: 5px;
